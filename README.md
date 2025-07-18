@@ -26,7 +26,7 @@
 - **Integrasi Library PhpSpreadsheet:** Menggunakan library PhpSpreadsheet untuk menghasilkan dokumen Excel.
 
 
-## 🛠️ Tumpukan Teknologi
+## 🛠️ Arsitektur Teknologi
 
 | Kategori          | Teknologi      | Catatan                                      |
 |----------------------|-----------------|----------------------------------------------|
