@@ -55,6 +55,3 @@ sneat01/
 
 Template Sneat Admin Dashboard
 
-## Author
-
-[Your Name] "# pos-restoran" 
